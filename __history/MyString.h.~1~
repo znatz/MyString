@@ -1,0 +1,7 @@
+#ifndef MyStringH
+#define MyStringH
+
+class MyString {
+};
+
+#endif /* #ifndef MyStringH */

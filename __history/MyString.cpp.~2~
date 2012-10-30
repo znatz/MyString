@@ -1,0 +1,15 @@
+#pragma hdrstop
+
+#include "MyString.h"
+
+MyString::MyString() {
+
+}
+
+MyString::MyString(int param1) {
+
+}
+
+void MyString::GetStr() {
+
+}

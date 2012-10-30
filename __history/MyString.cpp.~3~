@@ -1,0 +1,16 @@
+#pragma hdrstop
+
+#include "MyString.h"
+
+MyString::MyString() {
+	m_ustr = new UnicodeString;
+}
+
+MyString::MyString(UnicodeString param1) {
+	m_ustr = param1;
+
+}
+
+UnicodeString MyString::GetStr() {
+    return m_ustr;
+}
