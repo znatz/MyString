@@ -19,9 +19,7 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 {
 	MyString str("kaaak");
 	str = str - "a";
-	str = str + "bb";
-	str + "cc";
-	str += "dd";
+	//str = str + "bb";
 	Canvas->Font->Name = "Arial";
 	Canvas->Font->Color= clBlack;
 	Canvas->TextOutW(10,10,str.GetStr());

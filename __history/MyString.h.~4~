@@ -8,17 +8,12 @@ public:
 	// Constructor
 	MyString();
 	MyString(UnicodeString param1);
-	MyString(const MyString& obj);
-	~MyString();
 
 	// Get and Set
 	UnicodeString GetStr();
-	void SetStr(UnicodeString param1);
 
 	// Operator
 	MyString& operator-(UnicodeString param1);
-	MyString& operator+(UnicodeString param1);
-	void MyString::operator+=(UnicodeString param1);
 
 private:
 	UnicodeString m_ustr;

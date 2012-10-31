@@ -9,7 +9,6 @@ public:
 	MyString();
 	MyString(UnicodeString param1);
 	MyString(const MyString& obj);
-	~MyString();
 
 	// Get and Set
 	UnicodeString GetStr();
@@ -17,8 +16,6 @@ public:
 
 	// Operator
 	MyString& operator-(UnicodeString param1);
-	MyString& operator+(UnicodeString param1);
-	void MyString::operator+=(UnicodeString param1);
 
 private:
 	UnicodeString m_ustr;

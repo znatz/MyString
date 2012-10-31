@@ -3,22 +3,22 @@
 	<Transactions>
     <Transaction>2012/10/01 23:01:42.000.250,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2012/10/01 23:01:42.000.223,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2012/10/01 23:03:05.000.408,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2012/10/01 23:03:05.000.417,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
-    <Transaction>2012/10/17 16:08:33.000.269,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/01 23:03:05.000.408,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2012/10/17 16:08:33.000.286,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2012/10/30 22:54:24.692,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2012/10/30 22:54:24.705,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2012/10/30 22:54:40.561,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
-    <Transaction>2012/10/30 22:55:07.199,C:\Users\ZZR\Desktop\MyString\Unit1.h=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2012/10/30 22:55:07.199,C:\Users\ZZR\Desktop\MyString\Unit1.dfm=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2012/10/30 22:55:07.199,C:\Users\ZZR\Desktop\MyString\Unit1.cpp=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2012/10/30 22:55:08.201,C:\Users\ZZR\Desktop\MyString\Project1PCH1.h=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2012/10/30 22:55:09.090,C:\Users\ZZR\Desktop\MyString\Project1.cbproj=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>2012/10/30 22:55:14.320,=C:\Users\ZZR\Desktop\MyString\ModelSupport_Project1\default.txaPackage</Transaction>
-    <Transaction>2012/10/30 22:55:23.589,=C:\Users\ZZR\Desktop\MyString\ModelSupport_Project1\default.txvpck</Transaction>
-    <Transaction>2012/10/30 22:55:29.044,=C:\Users\ZZR\Desktop\MyString\Class1.cpp</Transaction>
-    <Transaction>2012/10/30 22:55:33.256,c:\users\zzr\desktop\mystring\MyString.h=C:\Users\ZZR\Desktop\MyString\Class1.h</Transaction>
-    <Transaction>2012/10/30 22:55:33.256,c:\users\zzr\desktop\mystring\MyString.cpp=C:\Users\ZZR\Desktop\MyString\Class1.cpp</Transaction>
+    <Transaction>2012/10/17 16:08:33.000.269,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/30 22:54:24.000.692,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/30 22:54:24.000.705,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/10/30 22:54:40.000.561,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2012/10/30 22:55:07.000.199,C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ZZR\Desktop\MyString\Unit1.cpp</Transaction>
+    <Transaction>2012/10/30 22:55:07.000.199,C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ZZR\Desktop\MyString\Unit1.h</Transaction>
+    <Transaction>2012/10/30 22:55:07.000.199,C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ZZR\Desktop\MyString\Unit1.dfm</Transaction>
+    <Transaction>2012/10/30 22:55:08.000.201,C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\ZZR\Desktop\MyString\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/30 22:55:09.000.090,C:\Users\ZZR\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\ZZR\Desktop\MyString\Project1.cbproj</Transaction>
+    <Transaction>2012/10/30 22:55:14.000.320,=C:\Users\ZZR\Desktop\MyString\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2012/10/30 22:55:23.000.589,=C:\Users\ZZR\Desktop\MyString\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>2012/10/30 22:55:29.000.044,=C:\Users\ZZR\Desktop\MyString\Class1.cpp</Transaction>
+    <Transaction>2012/10/30 22:55:33.000.256,C:\Users\ZZR\Desktop\MyString\Class1.h=c:\users\zzr\desktop\mystring\MyString.h</Transaction>
+    <Transaction>2012/10/30 22:55:33.000.256,C:\Users\ZZR\Desktop\MyString\Class1.cpp=c:\users\zzr\desktop\mystring\MyString.cpp</Transaction>
   </Transactions>
 </BorlandProject>
